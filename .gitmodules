@@ -1,0 +1,3 @@
+[submodule "react-the-complete-guide/expenses-app"]
+	path = react-the-complete-guide/expenses-app
+	url = https://github.com/Mardiniii/expenses-app
